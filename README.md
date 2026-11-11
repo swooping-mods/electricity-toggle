@@ -1,5 +1,7 @@
 # Electricity Lines
 
+<img src="media/icon.png" alt="Electricity Lines icon" width="128" height="128">
+
 See nearby blue power connections. F8 hides or restores them.
 
 ## Install
