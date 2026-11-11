@@ -1,0 +1,9 @@
+{
+  "id": "electricity-toggle",
+  "kind": "native",
+  "version": "0.2.0",
+  "backlog": "M06",
+  "feature_dependencies": [],
+  "gameplay": true,
+  "hotkey": "F8"
+}
